@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+mini/_exec/
+mini/smoke*.jsonl
+mini/mini_results.jsonl
